@@ -18,7 +18,8 @@
       "Polling rate (8000Hz)",
       "Dongle functionality"
     ],
-    "userExpertise": "Experienced"
+    "userExpertise": "Experienced",
+    "CoT_reasoning": "The feedback directly addresses critical functional aspects of the product (sensor and dongle), which are core to the user experience. The issues described are specific and actionable, making the feedback highly relevant."
   },
   "Sample 2": {
     "sentiment": "Mixed",
@@ -41,6 +42,7 @@
       "Performance",
       "Specifications"
     ],
-    "userExpertise": "Novice"
+    "userExpertise": "Novice",
+    "CoT_reasoning": "The feedback discusses the product's value proposition and performance, which are relevant to potential buyers. While the user acknowledges the product's quality, their focus on price-performance comparison provides useful insights for pricing strategy and marketing."
   }
 }
